@@ -1,0 +1,6 @@
+D:\leon\SortArithmetic\算法练习\EasySortArithmetic\bin\Debug\EasySortArithmetic.exe
+D:\leon\SortArithmetic\算法练习\EasySortArithmetic\bin\Debug\EasySortArithmetic.pdb
+D:\leon\SortArithmetic\算法练习\EasySortArithmetic\obj\Debug\EasySortArithmetic.csprojAssemblyReference.cache
+D:\leon\SortArithmetic\算法练习\EasySortArithmetic\obj\Debug\EasySortArithmetic.csproj.CoreCompileInputs.cache
+D:\leon\SortArithmetic\算法练习\EasySortArithmetic\obj\Debug\EasySortArithmetic.exe
+D:\leon\SortArithmetic\算法练习\EasySortArithmetic\obj\Debug\EasySortArithmetic.pdb
